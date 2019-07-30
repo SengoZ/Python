@@ -85,6 +85,7 @@ if status_copia & status_modificada:
     print('\nCopia y Modificada realizadas con exito')
 else:
     print('\nError al realizar copia y modificada')
+    
 #FIN APARTADO 5
 
 

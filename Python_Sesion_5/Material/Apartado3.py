@@ -33,5 +33,3 @@ cv2.imshow("Corregida",res)
 
 cv2.waitKey(0)
 cv2.destroyAllWindows()
-
-      

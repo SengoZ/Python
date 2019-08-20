@@ -111,7 +111,7 @@ plt.legend(legend)
 plt.xlim([0,256])
 plt.show()
 
-cv2.waitKey(0)
+cv2.destroyWindow('Ecualizada_Alto')
 cv2.destroyAllWindows()
 
 #FIN_APARTADO_3
